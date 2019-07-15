@@ -1,0 +1,38 @@
+body{
+    background: url("../images/pexels-photo-1229356.png") no-repeat center center fixed;
+    background-size: cover;
+}
+
+div{
+    background-color:orange;
+    width: 40%;
+    text-align: center;
+    margin: 250px auto;
+    border-radius: 20px;
+    opacity: 0.8;
+}
+@media screen and (max-width:720px){
+    div{
+        width:90%;
+    }
+}
+
+button{
+    border-radius: 10px;
+    color:black;
+    padding: 20px;
+    font-size: 20px;
+}
+
+h1{
+font-size:50px ;
+font-family: 'Dancing Script', cursive;
+}
+
+p{
+font-size: 30px;
+font-family: 'Dancing Script', cursive;
+}
+i{
+    font-size: 50px;
+}

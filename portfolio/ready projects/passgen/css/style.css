@@ -1,0 +1,36 @@
+body{
+    background: rgb(66,103,178);
+}
+
+.container{
+ width:600px;
+ margin: 0 auto;
+ margin-top: 150px;
+ font-size: 3em;
+}
+
+.MyBtn{
+    margin-top: 10px;
+    padding: 20px;
+    font-size: 40px;
+}
+.output{
+    margin-top: 10px;
+    text-align: center;
+    color: orangered
+}
+
+.pass{
+    background-color: orangered;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.first{
+    margin-left: 10px;
+    text-align: center;
+    padding: 5px;
+    font-size: 31px;
+    color: orangered;
+}
+
