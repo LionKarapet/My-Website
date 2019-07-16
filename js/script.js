@@ -44,7 +44,7 @@ class portofolio{
 //portfolio
 //first object
 var fir = document.getElementById('first');
-var obj1 = new portofolio("portfolio pics/Capture.png","Course Shopping");
+var obj1 = new portofolio("portfolio pics/Capture.PNG","Course Shopping");
 
 var image=document.createElement("img");
 image.src = obj1.getImage();
@@ -66,7 +66,7 @@ fir.appendChild(text);
 
 //second object
 var sec = document.getElementById('second');
-var obj2 = new portofolio("portfolio pics/Capture2.png","Gym Coming");
+var obj2 = new portofolio("portfolio pics/Capture2.PNG","Gym Coming");
 
 var image=document.createElement("img");
 image.src = obj2.getImage();
@@ -88,7 +88,7 @@ sec.appendChild(text);
 
 //third object
 var thir = document.getElementById('third');
-var obj3 = new portofolio("portfolio pics/Capture3.png","Tweet Storage");
+var obj3 = new portofolio("portfolio pics/Capture3.PNG","Tweet Storage");
 
 var image=document.createElement("img");
 image.src = obj3.getImage();
